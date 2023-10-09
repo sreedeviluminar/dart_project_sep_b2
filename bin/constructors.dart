@@ -3,7 +3,7 @@
 ///             - used to initialise an object
 ///             - automatically starts executes when the object is created
 ///             - a default constructor will create if we didn't created it
-///               manually when the object is craeted
+///               manually when the object is created
 class Sample {
   ///default constructor
   Sample() {
